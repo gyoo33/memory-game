@@ -2,73 +2,73 @@
   {
     "id": 1,
     "name": "bear",
-    "image": "/assets/images/bear.jpg",
+    "image": "assets/images/bear.jpg",
     "clicked": false
   },
   {
     "id": 2,
     "name": "bird",
-    "image": "/assets/images/bird.jpg",
+    "image": "assets/images/bird.jpg",
     "clicked": false
   },
   {
     "id": 3,
     "name": "cow",
-    "image": "/assets/images/cow.jpg",
+    "image": "assets/images/cow.jpg",
     "clicked": false
   },
   {
     "id": 4,
     "name": "deer",
-    "image": "/assets/images/deer.jpg",
+    "image": "assets/images/deer.jpg",
     "clicked": false
   },
   {
     "id": 5,
     "name": "dog",
-    "image": "/assets/images/dog.jpg",
+    "image": "assets/images/dog.jpg",
     "clicked": false
   },
   {
     "id": 6,
     "name": "elephant",
-    "image": "/assets/images/elephant.jpg",
+    "image": "assets/images/elephant.jpg",
     "clicked": false
   },
   {
     "id": 7,
     "name": "flamingo",
-    "image": "/assets/images/flamingo.jpg",
+    "image": "assets/images/flamingo.jpg",
     "clicked": false
   },
   {
     "id": 8,
     "name": "fox",
-    "image": "/assets/images/fox.jpg",
+    "image": "assets/images/fox.jpg",
     "clicked": false
   },
   {
     "id": 9,
     "name": "koala",
-    "image": "/assets/images/koala.jpg",
+    "image": "assets/images/koala.jpg",
     "clicked": false
   },
   {
     "id": 10,
     "name": "owl",
-    "image": "/assets/images/owl.jpg",
+    "image": "assets/images/owl.jpg",
     "clicked": false
   },
   {
     "id": 11,
     "name": "sloth",
-    "image": "/assets/images/sloth.jpg",
+    "image": "assets/images/sloth.jpg",
     "clicked": false
   },
   {
     "id": 12,
     "name": "whale",
-    "image": "/assets/images/whale.jpg",
+    "image": "assets/images/whale.jpg",
     "clicked": false
   }
 ]
